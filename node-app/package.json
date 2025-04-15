@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "comando-de-construccion",
+    "build": "echo 'No se requiere construcción, solo una tarea simple'",
     "start": "node app.js"
   },
   "dependencies": {
